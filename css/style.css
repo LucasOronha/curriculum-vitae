@@ -269,7 +269,21 @@ section.bar {
 	border-radius: 16px;
 	padding-bottom: 3%;
 }
+section.bar #atual-ead{
+	padding-top: 4%;
+	padding-left: 5%;
+}
 
+section.bar #atual-ead h3{
+	padding-left: 60%;
+}
+
+section.bar li{
+	padding-top: 0.8%;
+	font-size: 15px;
+	font-family: "Poppins";
+	white-space: nowrap;
+}
 section.bar #next-ead{
 	padding-top: 4%;
 }
@@ -417,7 +431,16 @@ section.project img{
 			text-align: center !important;
 			font-size: 11.5px;
 		}
+		section.bar #atual-ead h3{
+			text-align: center;
+			padding: 0 0;
+		}
 
+		section.bar li{
+		text-align: left;
+		font-size: 14px;
+		padding-right: 1%;
+		}
 		section.bar #pead{
 			font-size: 15px;
 		}
