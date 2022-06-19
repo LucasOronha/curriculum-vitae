@@ -22,12 +22,6 @@
 	margin: 0 auto;
 }
 
-.content3{
-	max-width: 500px;
-	padding: 0 2%;
-	margin: 0 auto;
-}
-
 .w25{
 	width: 25%;
 }
@@ -467,6 +461,4 @@ section.project img{
 		footer #pf{
 			text-align: center;
 		}
-
-}
 
