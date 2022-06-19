@@ -448,8 +448,7 @@ section.project img{
 
 		section.bar li{
 		text-align: left;
-		font-size: 14px;
-		padding-right: 1%;
+		font-size: 12px;
 		}
 
 		section.bar #pead{
@@ -464,7 +463,12 @@ section.project img{
 			padding-top: 2%;
 		}
 
+		footer{
+			width: 100% !important;
+		}
+	
 		footer #pf{
+			padding-top: 1.5%
 			text-align: center;
 		}
 
